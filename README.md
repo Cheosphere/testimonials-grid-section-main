@@ -5,6 +5,8 @@ El desafío es construir esta sección de cuadrícula de testimonios y lograr qu
 - HTML
 - CSS
 
+![desktop-design](https://user-images.githubusercontent.com/112582420/189560259-aa036d24-9306-4565-966f-d6a153083128.jpg)
+
 # Guía de Estilo
 
 ## Diseño
